@@ -7,12 +7,12 @@
   height: 100px;
   background-color: coral;
   border-radius: 10px;
+  
+  /* TODO */
+  /* 포지션 구현하기 */
   top : 500px;
   left : 600px;
   position : relative;
-
-  /* TODO */
-  /* 포지션 구현하기 */
 }
 .goal {
   width: 300px;
